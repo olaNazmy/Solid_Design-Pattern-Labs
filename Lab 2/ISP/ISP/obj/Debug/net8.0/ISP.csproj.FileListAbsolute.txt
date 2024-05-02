@@ -1,0 +1,14 @@
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\bin\Debug\net8.0\ISP.exe
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\bin\Debug\net8.0\ISP.deps.json
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\bin\Debug\net8.0\ISP.runtimeconfig.json
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\bin\Debug\net8.0\ISP.dll
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\bin\Debug\net8.0\ISP.pdb
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\obj\Debug\net8.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\obj\Debug\net8.0\ISP.AssemblyInfoInputs.cache
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\obj\Debug\net8.0\ISP.AssemblyInfo.cs
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\obj\Debug\net8.0\ISP.csproj.CoreCompileInputs.cache
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\obj\Debug\net8.0\ISP.dll
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\obj\Debug\net8.0\refint\ISP.dll
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\obj\Debug\net8.0\ISP.pdb
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\obj\Debug\net8.0\ISP.genruntimeconfig.cache
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\ISP\ISP\obj\Debug\net8.0\ref\ISP.dll

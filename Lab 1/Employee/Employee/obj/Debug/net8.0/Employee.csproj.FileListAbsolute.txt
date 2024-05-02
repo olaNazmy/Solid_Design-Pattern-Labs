@@ -1,0 +1,14 @@
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\bin\Debug\net8.0\Employee.exe
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\bin\Debug\net8.0\Employee.deps.json
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\bin\Debug\net8.0\Employee.dll
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\bin\Debug\net8.0\Employee.pdb
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\obj\Debug\net8.0\Employee.dll
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\obj\Debug\net8.0\refint\Employee.dll
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\obj\Debug\net8.0\Employee.pdb
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+F:\ITI Professional Web & Bi\43-SOLID\Day 1\Lab 1\Employee\Employee\obj\Debug\net8.0\ref\Employee.dll

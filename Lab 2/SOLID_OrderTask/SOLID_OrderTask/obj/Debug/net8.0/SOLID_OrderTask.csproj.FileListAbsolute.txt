@@ -1,0 +1,4 @@
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\SOLID_OrderTask\SOLID_OrderTask\obj\Debug\net8.0\SOLID_OrderTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\SOLID_OrderTask\SOLID_OrderTask\obj\Debug\net8.0\SOLID_OrderTask.AssemblyInfoInputs.cache
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\SOLID_OrderTask\SOLID_OrderTask\obj\Debug\net8.0\SOLID_OrderTask.AssemblyInfo.cs
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\SOLID_OrderTask\SOLID_OrderTask\obj\Debug\net8.0\SOLID_OrderTask.csproj.CoreCompileInputs.cache

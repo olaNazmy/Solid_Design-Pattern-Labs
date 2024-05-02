@@ -1,0 +1,4 @@
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\DIP\DIP\obj\Debug\net8.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\DIP\DIP\obj\Debug\net8.0\DIP.AssemblyInfoInputs.cache
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\DIP\DIP\obj\Debug\net8.0\DIP.AssemblyInfo.cs
+F:\ITI Professional Web & Bi\43-SOLID\Day 2\DIP\DIP\obj\Debug\net8.0\DIP.csproj.CoreCompileInputs.cache
